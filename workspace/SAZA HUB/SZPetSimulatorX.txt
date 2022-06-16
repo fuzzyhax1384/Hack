@@ -1,0 +1,1 @@
+{"SelectValueEnchant":5,"EggSelected":"","EnchantList":"Magnet","ConvertGold":true,"RemoveAnimation":false,"AreaSelected":"Town","CountCombineFunc1":1,"AreaFarm":false}
